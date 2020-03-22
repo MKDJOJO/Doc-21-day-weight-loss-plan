@@ -1,6 +1,6 @@
-# 模板基础指南
+# 减肥只能手册
 
-[文章链接](http://mkdjojo.github.io/Doc-Ae-Lv1)
+[文章链接](https://mkdjojo.github.io/Doc-21-day-weight-loss-plan/#/)
 
 ## 目录
 

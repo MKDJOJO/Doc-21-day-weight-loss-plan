@@ -1,4 +1,4 @@
-![logo](http://img.hhlmy.xyz/Work/Web%20Head/img-160X160.png)
+![logo](http://img.hhlmy.xyz/IMG/Head_sculpture/%E8%80%81%E5%A9%86-20170225-0003.gif)
 
 # 从零开始减肥
 
@@ -11,9 +11,9 @@
 - 实时的检测和调整
 
 [快速开始](https://mkdjojo.github.io/#/)
-[关于 AE](About)
-[资料下载](Download)
+[安排计划](About)
+[计划简介](Download)
 
 <!-- 背景色 -->
 
-![](http://img.hhlmy.xyz/Work/Other/IMG-HQ-022.jpg)
+![](http://img.hhlmy.xyz/Work/Other/IMG-BG-006.jpg)
