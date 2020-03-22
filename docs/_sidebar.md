@@ -16,8 +16,8 @@
 
 * **其他资料**
 
-  - [采购计划](Other/Other_001)
-  - [参考资料](Other/Other_002)
-  - [注意事项](Other/Other_003)
+  - [参考资料](Other/Other_001)
+  - [注意事项](Other/Other_002)
+  - [采购计划](Other/Other_003)
 
 * [**辅助工具**](Download)
