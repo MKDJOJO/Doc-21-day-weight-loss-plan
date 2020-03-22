@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>AE 学习手册</title>
+    <title>21天减肥计划</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta charset="UTF-8" />
@@ -28,7 +28,7 @@
         //小屏设备下合并导航栏到侧边栏。
         mergeNavbar: true,
         //默认情况下会抓取文档中所有标题渲染成目录，可配置最大支持渲染的标题层级。
-        maxLevel: 3,
+        maxLevel: 1,
         //自定义侧边栏后默认不会再生成目录，你也可以通过设置生成目录的最大层级开启这个功能。
         subMaxLevel: 2,
         //全文搜索插件会根据当前页面上的超链接获取文档内容，
@@ -45,29 +45,7 @@
         //我们可以通过 {docsify-updated} 变量显示文档更新日期.
         formatUpdated: '{MM}/{DD} {HH}:{mm}',
         //目录名称
-        name: 'AE 学习手册',
-        //头标角标
-        plugins: [
-          function(hook, vm) {
-            hook.beforeEach(function(html) {
-              if (/githubusercontent\.com/.test(vm.route.file)) {
-                url = vm.route.file
-                  .replace('raw.githubusercontent.com', 'github.com')
-                  .replace(/\/master/, '/blob/master')
-              } else {
-                url = 'https://github.com/MKDJOJO/Doc-AE-Lv1' + vm.route.file
-              }
-              var editHtml = '[:memo: 编辑文档](' + url + ')\n'
-
-              return (
-                editHtml +
-                html +
-                '\n\n----\n\n' +
-                '<a href="https://github.com/MKDJOJO" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">荣幸引用 docsify</a>'
-              )
-            })
-          }
-        ]
+        name: '21天减肥计划'
       }
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
